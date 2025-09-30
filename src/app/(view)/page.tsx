@@ -21,6 +21,7 @@ import { HandPlatter, MenuIcon } from "lucide-react";
 import { cn } from "@/lib/utils";
 
 export default function Home() {
+  //
   return (
     <>
       <header className="w-dvw p-0!">
